@@ -4,7 +4,7 @@
     "messageformat-cli": "2.1.1",
     "messageformat-runtime": "3.0.0-beta.1",
     "messageformat-core": "2.3.0",
-    "messageformat-convert": "0.4.0",
+    "@messageformat/convert": "1.0.0",
     "react-message-context": "0.6.2"
   }
 }
